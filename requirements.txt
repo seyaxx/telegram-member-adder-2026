@@ -1,0 +1,37 @@
+# Core Telegram client
+pyrogram>=2.0.106
+tgcrypto>=1.2.5
+
+# Async support
+asyncio-mqtt>=0.13.0
+
+# Data handling
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# Progress tracking and UI
+tqdm>=4.66.0
+rich>=13.0.0
+
+# Configuration management
+python-dotenv>=1.0.0
+pyyaml>=6.0
+
+# Error handling and logging
+loguru>=0.7.0
+
+# Rate limiting and timing
+ratelimit>=2.2.1
+
+# Randomization for human behavior
+faker>=19.0.0
+
+# Development and testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+black>=23.0.0
+flake8>=6.0.0
+
+# Optional: For enhanced features
+aiohttp>=3.8.0
+requests>=2.31.0
