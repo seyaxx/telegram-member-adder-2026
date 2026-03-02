@@ -27,6 +27,11 @@ Create a file named usernames.csv and upload the files
 @username2
 @username3
 
+3.1 Step 3.1
+
+Create a new file named: add_progress.json
+
+There you will find the log of the bot. 
 
 4. Step 4
 
